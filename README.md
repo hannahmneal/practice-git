@@ -4,8 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Sample Workflow
 
-![Workflow]("workflow.png")
-
+<img src="./src/assets/workflow.png">
 
 ## Available Scripts
 
